@@ -23,10 +23,10 @@ main()
 	}
 
 	printf("leap year :");
-	for(i=0 ;i<n1 ;i++)
+	for(i=0 ;i<index ;i++)
 	{
 	
-	printf("%d",index);
+	printf("%d",a[i]);
 	}
 
 }
